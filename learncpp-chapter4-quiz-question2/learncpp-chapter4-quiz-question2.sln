@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "learncpp-chapter4-quiz-question2", "learncpp-chapter4-quiz-question2.vcxproj", "{E2A817F0-F78B-487E-B2A9-A11970E3EBA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2A817F0-F78B-487E-B2A9-A11970E3EBA5}.Debug|x64.ActiveCfg = Debug|x64
+		{E2A817F0-F78B-487E-B2A9-A11970E3EBA5}.Debug|x64.Build.0 = Debug|x64
+		{E2A817F0-F78B-487E-B2A9-A11970E3EBA5}.Debug|x86.ActiveCfg = Debug|Win32
+		{E2A817F0-F78B-487E-B2A9-A11970E3EBA5}.Debug|x86.Build.0 = Debug|Win32
+		{E2A817F0-F78B-487E-B2A9-A11970E3EBA5}.Release|x64.ActiveCfg = Release|x64
+		{E2A817F0-F78B-487E-B2A9-A11970E3EBA5}.Release|x64.Build.0 = Release|x64
+		{E2A817F0-F78B-487E-B2A9-A11970E3EBA5}.Release|x86.ActiveCfg = Release|Win32
+		{E2A817F0-F78B-487E-B2A9-A11970E3EBA5}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A6E60C5-3F69-4C85-A210-029E890772EB}
+	EndGlobalSection
+EndGlobal
